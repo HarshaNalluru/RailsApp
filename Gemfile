@@ -48,3 +48,5 @@ end
 
 #Added Gems
 gem 'bootstrap', '~> 4.0.0alpha6'
+
+gem "react-rails"
